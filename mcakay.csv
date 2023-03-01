@@ -1,0 +1,5 @@
+player ;minute ;second;x;y;type ;outcome ;endX;endY
+messi;2;34;50;50;Pass;Successful ;40;43
+messi;4;45;63;48;Pass;Unsuccessful ;75;83
+messi;5;3;74;58;Pass;Unsuccessful ;71;65
+messi;10;51;76;68;Pass;Successful ;95;78
