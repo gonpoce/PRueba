@@ -1,5 +1,5 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-Home,H1,Pass,2,49,16,8,86,74
-Home,H2,Pass,4,52,9,82,78,16
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Outcome
+Home,H1,Pass,2,49,16,8,86,74,Successful 
+Home,H2,Pass,4,52,9,82,78,16,Unsuccesful
 Home,H4,Pass,6,40,19,12,89,73
 Home,H5,Pass,9,54,11,87,77,12
